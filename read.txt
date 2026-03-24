@@ -1,0 +1,11 @@
+Bibliotecas necessarias 
+pandas
+sqlite3
+sqlalchemy
+
+pip install pandas sqlalchemy
+pip install openpyxl
+
+lembrar de ativar venv
+.venv\Scripts\Activate
+
